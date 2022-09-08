@@ -9,7 +9,8 @@ Only when the trials have been completed and pushed, can you win.
 You MUST do these challenges one after the other, otherwise you won't win.
 
 Trial 1:
-ONE MEMBER of your group needs to make a new folder in your group directory called "PrizedMusic"
+ONE MEMBER of your group needs to make a new folder in your group directory called "PrizedMusic". 
+The file path should read IntroToGit\Group 1\PrizedMusic
 EVERY MEMBER of your group must search online for an image of their favorite album and save it to their computer.
 EVERY MEMBER of your group must add the image they saved to the directory "PrizedMusic" in their group folder
 
@@ -34,7 +35,6 @@ YOUR ANSWER:
 YOUR ANSWER:
 
 3) In Unity, what is the syntax that is used to print a message to the console?
-
 
 
 YOUR ANSWER:
