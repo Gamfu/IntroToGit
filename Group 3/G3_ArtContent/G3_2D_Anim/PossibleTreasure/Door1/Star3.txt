@@ -27,17 +27,17 @@ Write your answers to the following CS questions below.
 (c) Awake()
 (d) Start()
 
-YOUR ANSWER:
+YOUR ANSWER:ShootTarget()
 
 2) If one wants to add or remove a component from a GameObject, which window should they focus on?
 
 
-YOUR ANSWER:
+YOUR ANSWER: The Project window
 
 3) In Unity, what syntax is used to set the rotation property of an object?
 
 
-YOUR ANSWER:
+YOUR ANSWER: transfor.rotation
 
 
 Now that you've finished answering these questions, save this document.
