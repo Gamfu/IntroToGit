@@ -1,6 +1,6 @@
 I see you've finally found the Treasured Text. Before you proceed, make sure this treasure is for the right group.
 
-See this here is the treasure for: Group 3
+See this here is the treasure for: Group 2
 
 Before you can claim your prize, your group must work together to complete a few trials. 
 
@@ -9,35 +9,35 @@ Only when the trials have been completed and pushed, can you win.
 You MUST do these challenges one after the other, otherwise you won't win.
 
 Trial 1:
-ONE MEMBER of your group needs to make a new folder in your group directory called "BestShow". 
-The file path should read IntroToGit\Group 2\BestShow
+ONE MEMBER of your group needs to make a new folder in your group directory called "BestFood". 
+The file path should read IntroToGit\Group 2\BestFood
 EVERY MEMBER of your group must search online for an image of their favorite dinner food and save it to their computer.
 EVERY MEMBER of your group must add the image they saved to the directory "BestFood" in their group folder
 
 Once that's done, EVERYONE should open up Github desktop, give your commit a name, and push your changes. 
 
-Everyone has pushed their changes? Make sure EVERYONE pulls the latest updates from the Github Repo
+Everyone has pushed their changes? Make sure EVERYONE pulls the latest updated from the Github Repo
 
 Trial 2:
 Write your answers to the following CS questions below.
 
-1) Which of the following is NOT a built-in method in Unity?
-(a) ShootTarget()
-(b) Update()
-(c) Awake()
-(d) Start()
+1) Which of the following is NOT considered conditional statement?
+(a) if statement 
+(b) foreach loop
+(c) list
+(d) else statement
 
-YOUR ANSWER:ShootTarget()
+YOUR ANSWER: list
 
-2) If one wants to add or remove a component from a GameObject, which window should they focus on?
-
-
-YOUR ANSWER: The Project window
-
-3) In Unity, what syntax is used to set the rotation property of an object?
+2) If one wants to import an image or audio file into Unity, which window does the new files get imported into?
 
 
-YOUR ANSWER: transfor.rotation
+YOUR ANSWER: Project window
+
+3) In Unity, what syntax is used to get the position property of the Transform component?
+
+
+YOUR ANSWER: GetComponent<Transform>.()position
 
 
 Now that you've finished answering these questions, save this document.
@@ -48,8 +48,7 @@ Everyone has pushed their changes? Make sure you pull the latest updated from th
 
 
 Trial 3:
-Grab a paper ball from your table. Your goal is to shoot the paper ball into the RED cup labeled Group3. Only caveat is that NO ONE can get up from their seat.
-Your target has a hidden note underneath it. You've finished this challenge
+Grab a paper ball from your table. Your goal is to shoot the paper ball into the RED cup labeled Group2. Your target has a hidden note underneath it. You've finished this challenge
 when you've made the goal and given the note to your teacher.
 
 
